@@ -2,7 +2,7 @@ Package: com.yap.Colorbadges
 Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: Yang
-Depends: ios
+Depends: ios 8.x,9.x,10.x,11.x
 Filename: /Colorbadges.deb
 Size: 63446
 MD5sum: A912896F1EF80E5D7AFB7D8DAE264E6E
