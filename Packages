@@ -1,14 +1,14 @@
-Package: com.yap.mterminal
-Version: 1.4.3
+Package: com.yap.Colorbadges
+Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: Yang
 Depends: ios
-Filename: /mterminal.deb
-Size: 128984
-MD5sum: 233D507FC01F7BC61A36A54B41A225DC
-SHA1: 9A592F4094CDC2B125EC9D688B6CD09D50C4FA13
-SHA256: BAEAB7728722B52FFE91D31C67FC357800367D86377F7B53EFB9D28976283196
+Filename: /Colorbadges.deb
+Size: 63446
+MD5sum: A912896F1EF80E5D7AFB7D8DAE264E6E
+SHA1: CF680034D4D4B5AEAD5A8AFAD0DD68688415A079
+SHA256: F6CF4592175BC1613DCAA2A6CF71B3AD34409ADC9FD56CC85CCC9CA3A5A495A1
 Section: Tweaks
-Description: Terminal for ios
+Description: mang màu sắc lên Badger ios 8.x,9.x,10.x,11.x
 Author: Yang
-Name: MTerminal
+Name: Colorbadges
